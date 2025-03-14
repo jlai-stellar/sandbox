@@ -13,3 +13,6 @@ jobs:
     steps:
     - name: "which gh"
       run: "which gh"
+
+    - name: "gh version"
+      run: "gh version"
