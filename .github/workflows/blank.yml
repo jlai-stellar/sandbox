@@ -11,5 +11,5 @@ jobs:
     name: Determine whether gh cli is installed
     runs-on: ubuntu-latest
     steps:
-     - name: "which gh"
+    - name: "which gh"
       run: "which gh"
